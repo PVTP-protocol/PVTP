@@ -9,8 +9,6 @@
 </p>
 
 
-**Progressive Visual Transfer Protocol**
-
 PVTP is an open protocol concept for fast, adaptive, progressive delivery of visual content.
 
 It is designed to:
