@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="asset/logo.png" alt="PVTP Logo" width="90">
+  <img src="asset/logo.png" alt="PVTP Logo" width="180">
 </p>
 
 <h1 align="center" style="margin-top:0;">
