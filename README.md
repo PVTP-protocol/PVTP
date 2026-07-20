@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="120" alt="PVTP Logo">
+  <img src="asset/logo.png" width="120" alt="PVTP Logo">
 </p>
 
 <h1 align="center">PVTP</h1>
@@ -8,7 +8,6 @@
   Progressive Visual Transfer Protocol
 </p>
 
-# PVTP
 
 **Progressive Visual Transfer Protocol**
 
