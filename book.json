@@ -1,0 +1,9 @@
+{
+  "title": "PVTP",
+  "description": "Progressive Visual Transfer Protocol",
+  "language": "en",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  }
+}
